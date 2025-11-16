@@ -1,7 +1,3 @@
-#                                  Hey Guys👋
-
-
-**AbhinavMBiju/AbhinavMBiju** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-- I’m currently pursuing Btech in Computer Science and Engineering from College of Engineering, Chengannur
-- I’m currently learning web development and ai
+Computer Science Engineering student | Passionate about AI, Web Development & Problem Solving.
+Building intelligent systems that make everyday tasks easier.
+Currently working on AI-powered platforms and sharpening my coding skills.
